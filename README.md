@@ -1,4 +1,4 @@
-# Set_DesktopShortcuts
+# Set-DesktopShortcuts.ps1
 Set desktop shortcuts for the logged-on user.
 
 This script uses a set of variables to look for and selectively copy shortcuts to the logged-on user's desktop. I originally wrote it to be run as a logon script from Group Policy. Additionally, if you use PDQ Deploy and/or PDQ Inventory, it can be run as a PowerShell step in a Deploy package, or as a remote command or tool in Inventory.
