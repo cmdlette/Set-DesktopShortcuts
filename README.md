@@ -9,5 +9,7 @@ Read and edit the script carefully before executing. You will need to fill in yo
 0. $shortcutN file names and extensions
 1. Location of items to be copied
 
+There are comments to remind you where to look and what to change. If you want to add more shortcuts, simply add new $shortcutN variables and put them into copy-pasted if/else blocks.
+
 # Other notes
 This script, as shared, is not signed.
